@@ -1,6 +1,6 @@
 # These are users permitted to access this repo
 Landmark
-Simon
+mercy
 Dominion
 Peter
 Manager
