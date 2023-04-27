@@ -2,6 +2,5 @@
 Landmark
 Simon
 Dominion
-Ken
-Obi
 Peter
+Manager
